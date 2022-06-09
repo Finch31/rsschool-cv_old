@@ -1,5 +1,5 @@
 # Yauheniya Yancheuskaya
-![photo](/img/mountan.png "фото")
+![photo](https://bipbap.ru/wp-content/uploads/2017/05/0_56c77_96dd7e90_L.jpg)
 ------
 # Contacts
 * Phone:+375-29-275-76-95
@@ -18,7 +18,7 @@ return a * b
 ```
 # Experience:
 I have no experience yet.
-[CV](https://Finch31.github.io/rsschool-cv/)
+[CV](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/git-markdown.md)
 # Education:
 * University: BSUIR (Belarusian State University of Informatics and Radioelectronics)
 * Courses: Preparatory course JavaScript/Front-end. Stage 0
