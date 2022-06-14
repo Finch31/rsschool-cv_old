@@ -5,25 +5,49 @@ body {
     font-family: 'Nuosu SIL', serif;
     border: 1px solid greenyellow;
   }
+  main {
+    display: block;
+}
 * {
     box-sizing: border-box;
-  }
-  .container {
-    max-width: 1440px;
-    margin: 0 auto;
   }
   .nav-list {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-  }
-  html {
-    scroll-behavior: smooth; 
-  }
-  .nav-list {
     list-style: none;
   }
-  .nav-link {
+  .header {
+    background-color: goldenrod;
+  }
+  .main {
+    margin-bottom: auto;
+  }
+  .footer {
+    background-color: goldenrod;
+  } 
+  .container {
+    padding: 0 20px;
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .section-profile {
+    padding: 50px 30px 50px;
+    border-bottom: 15px solid orange;
+  }
+  .section-profile-logo {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 60%);
+    filter: grayscale(0.2) brightness(1.05);
+    transition: .3s;
+}
+   .html {
+    scroll-behavior: smooth; 
+  }
+   .nav-link {
     padding: 0 20px;
     line-height: 50px;
   }
