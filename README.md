@@ -1,2 +1,2 @@
-# [rsschool-cv](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
-# [CV](https://GITHUB-USERNAME.github.io/rsschool-cv/)
+# [rsschool-cv](https://Finch31.github.io/rsschool-cv/cv)
+# [CV](https://Finch31.github.io/rsschool-cv/)
